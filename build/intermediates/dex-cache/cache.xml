@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.android\build-cache\c030e124faec9458392badae50d4d9fe0b71b3a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ebd18603c0013727799e7ed41bcb42f3df75c0">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\classes_a34e4a9f66f8d547ab3dc66f30e587e6f2d57ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_23ad1c58be83c147d92ec07ed4f94ddd9d23a643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_e443570c0defbed73688bb9b52243de44f6f9b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.android\build-cache\03ba8b33d293ccdae3b4668fcead4b6946cebc7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f607369e68cb756b3f8f523403e3d80433a68aa1">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\classes_b80b11a34d6b7eb9bf78baba279f96a98bddd14d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_7a50947e7f5e766980ac2624b1cf7dad47ba35ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_15ff941410d9bba530cf6bfede7b069617570e01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_45afe735ba4b17fd4c570b2bd1ad3da5ed6df488\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.android\build-cache\c550d2e8f5a182b83918e17e0d6d47e967fca541\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\debug\classes_8657684da36434eab7d4bc8c34d90493ab3d0743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.android\build-cache\3c268e8b9368f4cf25c7b90662a8f9599208ee56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\classes_a7bd9d5ffc1c75358084a2449a39a1e69156e6d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.android\build-cache\49c3a760dfbe949cea75ad279eb9597eaa525ca4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\debug\classes_873f9ff976bcf0bba5c7e32090ae493cb9504005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.android\build-cache\aca1cce5620e105bf7a573bbce3295cfeea6c11e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1d90a3498ab7a4b68ea6e936e71cf7f4e95453f">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\classes_4bbdebca975a947390b7e74c890757997408dd4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.android\build-cache\32ed4e54d7113bf0dc533047460fe828a3b6f0e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4805433aedef15e73a7eedf7e3496eb4363a583">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\classes_6d5b77bb6a1c566676dec31fcc3e99cb29be9663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_c523b7ab561b10b5adcb89bf9b3b006478f667df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.android\build-cache\8a5db474405d0358105c894f2fc705e5647c23b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\debug\classes_72281e572e96f04db40c6edb546ab9c9903be24a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b410b68aaf9d26da5c310319bb0b7b00d7a31c24">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_44436984e3e659911d0b443c418d59a4dfa210f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_4d7268034e38143059eb211fbe402fc3db77d2d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muska\.android\build-cache\97b758691d3090436472ab68eed8fa568ec5e6e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bf81c0a6161260db8c69faac75b5935267ee79e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.android\build-cache\602ff5e40f98826923c58cd0ecdfd3a452b03d18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25a72389e79fbac13f78412a4a6ffacc1cdb0673">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\classes_66e733725051a175d2e66b61a9b568b539c3854d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_14cd8c3b7754a4e549578e7c4419ad3ebbe40ff8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\muska\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_5cfc93f97cf4e1cc80f22e3e3bdb98cba7e69a0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_fed06e592fb88e7f4da7e37043bdf894b50a573f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_0a693886f2b32b9730a16c6b408f4fede4a24ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.android\build-cache\c550d2e8f5a182b83918e17e0d6d47e967fca541\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_5abf44cf3207c4164c4f88ff2f08722276686931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muska\.android\build-cache\e8c71ce51a28794ba84f48fa5614a078545f9e94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\muska\AndroidStudioProjects\GreetFriend\app\build\intermediates\pre-dexed\debug\classes_d664566066a519bac67d52f078deaea43673b2ba.jar" />
+    </item>
+
+</items>

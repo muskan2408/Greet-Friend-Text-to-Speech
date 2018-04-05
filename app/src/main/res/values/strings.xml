@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GreetFriend</string>
+    <string-array name="Friends">
+        <item>Muskan</item>
+        <item>Atisha</item>
+        <item>Abhinav</item>
+        <item>Vikas</item>
+        <item>Chinmay</item>
+        <item>Simran</item>
+        <item>Aryan</item>
+        <item>Kanishk</item>
+    </string-array>
+</resources>
